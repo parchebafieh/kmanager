@@ -1,4 +1,4 @@
-{"books": [
+[
     {
         "name": "Design Patterns - Elements of Reusable Object-Oriented Software (Gang of Four)",
         "authors": {
@@ -27,4 +27,4 @@
             "author2": "Michel Donahoo"
         }
     }
-]}
+]
